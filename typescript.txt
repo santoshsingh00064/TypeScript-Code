@@ -1,0 +1,15 @@
+-> what is TypeScript?
+superset of javascript
+adds static typing
+better scalability & maintainability
+
+-> why use TypeScript
+Catch errors early
+Better IDE support
+Clean & scalable code
+
+
+// install typescript -g globally
+npm i -g typescript
+// check version
+tsc -v

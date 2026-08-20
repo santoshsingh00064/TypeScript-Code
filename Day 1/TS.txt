@@ -1,0 +1,11 @@
+
+npx tsc --init
+// go to tsconfig.json
+"rootDir": "./",
+// run command
+tsc
+tsc --watch
+
+nodemon index.js
+// run command on terminal
+node index.js
